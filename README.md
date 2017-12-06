@@ -68,3 +68,7 @@ If you are on a Linux machine or have GNU `make` configured you should be able
 to build and install this package by cloning the repository and running
 
     make install
+
+### Navigation of the Repository
+(include descriptions of files and folders?)
+
